@@ -1,0 +1,52 @@
+{
+  "name": "angular2-lightbox",
+  "version": "1.1.0",
+  "description": "A port angular2 for lightbox2",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@angular/common": "^4.1.0",
+    "@angular/compiler": "^4.1.0",
+    "@angular/compiler-cli": "^4.1.0",
+    "@angular/core": "^4.1.0",
+    "@angular/platform-browser": "^4.1.0",
+    "@angular/platform-browser-dynamic": "^4.1.0",
+    "@types/node": "^7.0.18",
+    "angular2-lightbox": "^1.1.2",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^3.1.2",
+    "core-js": "^2.4.1",
+    "css-loader": "^0.28.2",
+    "file-loader": "^0.11.1",
+    "html-loader": "^0.4.5",
+    "html-webpack-plugin": "^2.28.0",
+    "rxjs": "^5.0.3",
+    "style-loader": "^0.18.1",
+    "tslint": "^5.1.0",
+    "typescript": "^2.2.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.5",
+    "zone.js": "^0.8.9"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --inline --progress --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themyth92/angular2-lightbox.git"
+  },
+  "keywords": [
+    "lightbox2",
+    "angularjs",
+    "directives",
+    "lightbox2",
+    "angular",
+    "directives"
+  ],
+  "author": "themyth92",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themyth92/angular2-lightbox/issues"
+  },
+  "homepage": "https://github.com/themyth92/angular2-lightbox#readme"
+}
